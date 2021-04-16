@@ -1,0 +1,24 @@
+.video-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 70% 1;
+  padding: 16px;
+  height: fit-content;
+}
+.video {
+  width: 100%;
+}
+.video-title {
+  font-size: 1em;
+}
+.description {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.description span {
+  color: #606060;
+}
+.dot {
+  margin: auto 4px;
+}
