@@ -1,0 +1,8 @@
+.actions {
+  align-self: flex-end;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.actions * {
+  margin: auto 5px;
+}
