@@ -1,0 +1,24 @@
+.thumbnail-wrapper {
+  margin-top: 10px;
+  display: flex;
+}
+.thumbnail {
+  width: 160px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  padding: 0 8px;
+  width: max-content;
+}
+.details span {
+  color: #606060;
+}
+
+.thumbnail-title {
+  color: black !important;
+  font-weight: bold;
+  margin-bottom: 8px;
+  font-size: 1rem;
+}

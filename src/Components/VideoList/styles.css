@@ -1,0 +1,9 @@
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex: auto;
+  padding: 15px 12px;
+}
+.autoplay {
+  float: right;
+}
